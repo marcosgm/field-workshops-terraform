@@ -1,4 +1,6 @@
 # HashiCorp Terraform Field Workshops
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/dd6f4d0c-c001-4f02-a3d5-b289fb891db4.svg?orgId=568518005652)](https://app.soluble.cloud/repos/details/github.com/marcosgm/field-workshops-terraform?orgId=568518005652)  
 [![CircleCI](https://circleci.com/gh/hashicorp/field-workshops-terraform.svg?style=svg&circle-token=3ae20ad84b4220d3e1002b58b1aeae863a9c71ec)](https://circleci.com/gh/hashicorp/field-workshops-terraform)
 
 All HashiCorp field workshops focused on Terraform should be placed in this repository. Similar field workshop repositories exist for these HashiCorp solutions:
